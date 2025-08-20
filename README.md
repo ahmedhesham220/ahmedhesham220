@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedHesham220&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHesham220&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
-  <img height="148" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif"/>
+  <img height="148" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="chill frog coding gif"/>
 </div>
 
 ###
@@ -45,4 +45,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode"/>
